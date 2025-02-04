@@ -20,7 +20,8 @@
 
 title: Red Hat Blog
 # email: your-email@example.com
-description: >- "This is a blog site about a day in life of a Red Hat Intern. Here I will give an insight what it is like behind the scenes."
+description: >- 
+  This is a blog site about a day in life of a Red Hat Intern. Here I will give an insight what it is like behind the scenes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jourdee-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
