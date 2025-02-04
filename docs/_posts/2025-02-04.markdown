@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "First week as a Red Hat Intern"
-date:   2025-02-04 12:58:15 +0100
-categories: jekyll update
+~layout: post
+~title:  "First week as a Red Hat Intern"
+~date:   2025-02-04 12:58:15 +0100
+~categories: jekyll update
 ---
 
 
